@@ -1,0 +1,9 @@
+George Boole 이라는 수학자
+
++
+
+Claude Elwood Shannon 과학자
+
+ = Boole이 만든 논리적인 체계를 컴퓨터에 적용시킴 
+
+고등수학 (명제)를 보면 도움됨
